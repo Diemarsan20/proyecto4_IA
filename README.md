@@ -1,8 +1,14 @@
 # Proyecto 4 - Predicción de Ratings de Videojuegos
 
-## Objetivo del Proyecto
+## Objetivo General del Proyecto
 
 Este proyecto tiene como objetivo principal **predecir el rating que obtendrá un juego en el futuro**. Utilizando técnicas de inteligencia artificial y machine learning, se busca desarrollar un modelo predictivo que pueda estimar con precisión las calificaciones que recibirán los videojuegos basándose en diversos factores y características.
+
+## Objetivos Específicos del Proyecto
+
+- Identificar los factores más influyentes en el éxito de un videojuego
+- Segmentar los videojuegos en grupos con características similares y patrones de rating comparables
+- Desarrollar un modelo predictivo que estime con precisión el rating futuro
 
 ## Descripción
 
